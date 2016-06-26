@@ -1,0 +1,38 @@
+*{margin:0; padding:0; border:none;}
+body{font:75%/1.5 "Segoe UI", Verdana, Helvetica, sans-serif}
+.content{
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+h1{text-transform:uppercase; letter-spacing:5px; margin-bottom:2em; margin-top:.5em;}
+h1,h2{text-align:center;}
+h2{font-family:Georgia, serif; font-size:200%; text-align:left; text-indent:30%; margin-bottom:2em;}
+
+/**
+table.table-data{
+    border-collapse:collapse;
+    border-spacing:0;
+    margin-top:0.75em;
+    border:0 none;
+    margin-top:35px;
+}
+table.table-data td{
+    padding:15px 30px 15px 10px;
+}
+table.table-data tr td:nth-child(1){
+    font-weight:700;
+}
+
+**/
+
+ol,ul{list-style-type:none}
+.ol-data{margin-left:25%; margin-right:25%}
+.ol-data li{font-family:Tacoma, serif; font-size:15px; text-align:left; margin-top:.25em; margin-bottom:.25em;}
+.ol-data strong{font-family: "Comic Sans MS", "Comic Sans", cursive; font-size:13px; text-decoration:underline;}
+.ol-sub{width:80%; margin-left:20%; margin-bottom:20px; border-bottom:3px solid #666;}
+abbr{text-transform:uppercase;}
+
+
+
+.block{display:block;}
