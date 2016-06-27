@@ -2,7 +2,7 @@
       // url to get geoJSON from
       // var jsonURL = "https://raw.githubusercontent.com/sunlightpolicy/opendata/master/USlocalpolicylocations.geoJSON";
       // get the getJSON from url
-            var urlJSON = "billdetails.json";
+            var urlJSON = "js/billdetails.json";
       $.getJSON(urlJSON, function (data) {
         // gets the locations in the geoJSON that have a city property
         // var locations = [];
